@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @tm2582001
-- 👀 I’m interested in Web development and c++
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tm2582001/tm2582001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi I'm Tushar Mehta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
