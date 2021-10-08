@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/tm2582001/tm2582001/blob/main/giphy%20(1).gif?raw=true"/>
 
 
-## I watch Anime, Play games and more importantly i like to write codes!!
+## I watch Anime, Play games and more importantly, I like to write code!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tm2582001&label=Profile%20views&color=0e75b6&style=flat" alt="tm2582001" /> </p>
 
