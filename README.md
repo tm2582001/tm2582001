@@ -1,7 +1,7 @@
 ## Hi I'm Tushar Mehta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-<img align="right" alt="GIF" src="https://github.com/tm2582001/tm2582001/blob/main/giphy%20(1).gif.gif?raw=true"/>
+<img align="right" alt="GIF" src="https://github.com/tm2582001/tm2582001/blob/main/giphy%20(1).gif?raw=true"/>
 
 
 ## I watch Anime, Play games and more importantly i like to write codes!!
